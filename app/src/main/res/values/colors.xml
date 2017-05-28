@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#812990</color>
+    <color name="colorPrimaryDark">#5e186b</color>
+    <color name="colorAccent">#bd5cce</color>
+
+    <color name="tabBackground">#8e24aa</color>
+    <color name="tabIndicator">#8e24aa</color>
+    <color name="tabText">#e1bee7</color>
+    <color name="tabSelectedText">#ffffff</color>
+
+    <!-- Bootstrap Button -->
+    <color name="button_text_default">#ffffff</color>
+    <color name="button_text_reverse">#000000</color>
+
+    <color name="button_default">#e6e6e6</color>
+    <color name="button_default_border">#d6d6d6</color>
+    <color name="button_default_pressed">#d6d6d6</color>
+    <color name="button_default_pressed_border">#c6c6c6</color>
+
+    <color name="button_primary">#337AB7</color>
+    <color name="button_primary_border">#2E6DA4</color>
+    <color name="button_primary_pressed">#286090</color>
+    <color name="button_primary_pressed_border">#204D74</color>
+
+    <color name="button_success">#5CB85C</color>
+    <color name="button_success_border">#4CAE4C</color>
+    <color name="button_success_pressed">#449D44</color>
+    <color name="button_success_pressed_border">#398439</color>
+
+    <color name="button_info">#5BC0DE</color>
+    <color name="button_info_border">#46B8DA</color>
+    <color name="button_info_pressed">#31B0D5</color>
+    <color name="button_info_pressed_border">#269ABC</color>
+
+    <color name="button_warning">#F0AD4E</color>
+    <color name="button_warning_border">#EEA236</color>
+    <color name="button_warning_pressed">#EC971F</color>
+    <color name="button_warning_pressed_border">#D58512</color>
+
+    <color name="button_danger">#ed5565</color>
+    <color name="button_danger_border">#da4453</color>
+    <color name="button_danger_pressed">#da4453</color>
+    <color name="button_danger_pressed_border">#990000</color>
+
+    <color name="button_purple">#ba68c8</color>
+    <color name="button_purple_border">#ab47bc</color>
+    <color name="button_purple_pressed">#ab47bc</color>
+    <color name="button_purple_pressed_border">#9c27b0</color>
+</resources>
